@@ -1,0 +1,21 @@
+------------------------------------------------------------------------
+Make collision movie using POV-Ray
+------------------------------------------------------------------------
+
+Make a movie (animation GIF) of droplets collision from
+textdata using POV-Ray.
+
+Following softwares are necessary.
+
+- POV-Ray
+- Ruby
+- convert (ImageMagick)
+
+-----------------------------------------------------------------------
+Usage:
+
+$ tar xvzf conf.tar.gz
+$ make
+
+------------------------------------------------------------------------
+
