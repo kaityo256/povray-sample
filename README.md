@@ -1,11 +1,17 @@
 ------------------------------------------------------------------------
-Samples for POV-Ray
+# Samples for POV-Ray
 ------------------------------------------------------------------------
 
 Some somples using POV-Ray
 ------------------------------------------------------------------------
-sample: simple sample
-animation: animation gif  (collision of droplets)
+##[sample](sample)
+A simple example.
+
+##[animation](animation)
+An animation example (collision of droplets).
+
+##[density](density)
+An example of density plot (df3 format).
 ------------------------------------------------------------------------
 
 
