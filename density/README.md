@@ -1,18 +1,15 @@
-------------------------------------------------------------------------
 # An example of density plot (df3 format)
-------------------------------------------------------------------------
+
 ## Summary
 
 Sample files for povray using density plot (df3 format).
 
-------------------------------------------------------------------------
 #Usage
 
     $ make clean
     $ make
 
-------------------------------------------------------------------------
-# Files
+## Files
 
 * [df3.rb](df3.rb)
   Ruby script which generates df3 file (test.df3).
