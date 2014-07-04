@@ -1,17 +1,13 @@
-------------------------------------------------------------------------
 # Simple sample for POV-Ray (Blob)
-------------------------------------------------------------------------
 
-# Summary
+## Summary
 An example for POV-Ray using Blob.
 
-# Usage
+## Usage
 
 $ povray sample.pov
 
-# Output
+## Output
 
 ![sample.png](sample.png)
-
-------------------------------------------------------------------------
 
