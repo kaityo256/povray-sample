@@ -1,6 +1,4 @@
-------------------------------------------------------------------------
 # Make collision movie using POV-Ray
-------------------------------------------------------------------------
 
 ## Summary
 Make a movie (animation GIF) of droplets collision from
@@ -23,7 +21,7 @@ It will give you png files. If ImageMagick is installed, an animation gif will b
 
 Here are the samples of pictures.
 
-![sample1.png](sample1.png)
-![sample2.png](sample2.png)
-![sample3.png](sample3.png)
+![output1.png](output1.png)
+![output2.png](output2.png)
+![output3.png](output3.png)
 
