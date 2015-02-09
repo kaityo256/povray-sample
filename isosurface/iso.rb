@@ -7,7 +7,6 @@ puts "# Data size is #{a.size+6}."
 LX.times{|x|
   LY.times{|y|
     LZ.times{|z|
-      #v = ((x.to_f/LX.to_f)*256).to_i
       rx = x.to_f/LX.to_f - 0.5
       ry = y.to_f/LY.to_f - 0.5
       rz = z.to_f/LZ.to_f - 0.5
@@ -17,7 +16,6 @@ LX.times{|x|
       v = 255 if v > 255
       i = x+y*LX+z*LY*LZ
       a[i] = v
-      puts v
     }
   }
 }
