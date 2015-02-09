@@ -1,5 +1,4 @@
 #include"colors.inc"
-//light_source{<1,1,2> color White*2}
 light_source{<10,10,-10> color White*2}
 camera{
   location<2,2,-2>
@@ -15,12 +14,6 @@ plane{ <0,1,0>,0 pigment{checker color White color Gray} }
     interpolate 1
   }
 }
-/*
-box{<0,0,0>,<1,1,1>
-  pigment{checker White*1.5, color rgb<0.5,0.8,0.4> scale 0.25}
-  finish{phong 1 reflection 0.1}
-}
-*/
 
 isosurface{
   function { -FUNC(x,y,z).gray + 0.5}
